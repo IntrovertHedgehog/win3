@@ -1,0 +1,19 @@
+* window manager
+** window layout class (split, tab). split only for now. tab requrie separate title bar
+** window size calc (divider in split), account for superbar. Reset size
+** jump focus + decor
+** spawn new window
+** move window around (swap)
+** catch window spawn event and put into correct layout
+** resize (keyboard)
+** resize (mouse)
+
+* workspace
+** assign windows to workspaces
+** send window to workspace
+** jump btw ws
+** ws ui (i3 bar)
+
+* scrap pad
+* quick launcher
+* app laucher (GUI)
