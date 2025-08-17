@@ -1,18 +1,21 @@
 * window manager
-** window layout class (split, tab). split only for now. tab requrie separate title bar
-** window size calc (divider in split), account for superbar. Reset size
-** jump focus + decor
-** spawn new window
-** move window around (swap)
-** catch window spawn event and put into correct layout
-** resize (keyboard)
-** resize (mouse)
+** TODO initiate
+    + fetch current windows
+    + put into layouts
+** TODO window layout class (split, tab). split only for now. tab requrie separate title bar
+** TODO window size calc (divider in split), account for superbar. Reset size
+** TODO jump focus + decor
+** TODO spawn new window
+** TODO move window around (swap)
+** TODO catch window spawn event and put into correct layout
+** TODO resize (keyboard)
+** TODO resize (mouse)
 
 * workspace
-** assign windows to workspaces
-** send window to workspace
-** jump btw ws
-** ws ui (i3 bar)
+** TODO assign windows to workspaces
+** TODO send window to workspace
+** TODO jump btw ws
+** TODO ws ui (i3 bar)
 
 * scrap pad
 * quick launcher
